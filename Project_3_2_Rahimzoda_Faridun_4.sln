@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35527.113 d17.12
+VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project_3_2_Rahimzoda_Faridun_4", "Project_3_2_Rahimzoda_Faridun_4\Project_3_2_Rahimzoda_Faridun_4.csproj", "{BEAE248C-D807-4024-8E12-861946A72A74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Telegram_bot", "Telegram_bot\Telegram_bot.csproj", "{83D17A65-B606-4A87-B132-31F4E9A8EF14}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{BEAE248C-D807-4024-8E12-861946A72A74}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BEAE248C-D807-4024-8E12-861946A72A74}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BEAE248C-D807-4024-8E12-861946A72A74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83D17A65-B606-4A87-B132-31F4E9A8EF14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83D17A65-B606-4A87-B132-31F4E9A8EF14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83D17A65-B606-4A87-B132-31F4E9A8EF14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83D17A65-B606-4A87-B132-31F4E9A8EF14}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
